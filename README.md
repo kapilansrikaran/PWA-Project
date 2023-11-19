@@ -1,4 +1,4 @@
-# PWA-Project
+# PWA-Projects
 
 ## PWA in React
 * Project Name: Art Videos
