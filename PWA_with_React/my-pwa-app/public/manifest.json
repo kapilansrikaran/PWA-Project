@@ -1,0 +1,50 @@
+{
+  "short_name": "ArtVideos",
+  "name": "Art Videos for Fun and Learning",
+  "icons": [
+    {
+      "src": "icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "moon-120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "moon-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "moon-152-ios.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "moon-167-ios.png",
+      "type": "image/png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "moon-180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "moon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "moon-512-chrome.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
